@@ -1,2 +1,2 @@
-# chaos3-build-starter
-Bestie AI Chaos³ build files
+# Chaos³ Build Starter
+Welcome to the Bestie AI Chaos³ starter pack!
